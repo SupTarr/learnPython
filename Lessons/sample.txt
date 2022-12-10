@@ -1,0 +1,7 @@
+This is a text file.
+My name is Supakrit Chuchatwannakul.
+I am a software developer.
+I love Python the most.
+I love JavaScript the second.
+This is the first line.
+This is the second line.
